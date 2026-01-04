@@ -55,3 +55,6 @@ Sales performance is further broken down by product attributes. Pie charts displ
 To evaluate product-level performance, the dashboard includes Top 5 and Bottom 5 pizzas based on Revenue, Total Quantity Sold, and Total Orders. These visualizations help identify best-selling pizzas driving profitability as well as underperforming items that may require pricing, promotion, or menu optimization. Additionally, a funnel-style chart compares total pizzas sold across categories, making it easier to assess relative performance.
 
 Overall, this dashboard serves as a powerful analytical tool for stakeholders to monitor sales trends, identify growth opportunities, optimize product offerings, and make data-driven business decisions efficiently.
+
+# Dataset Used
+<a href="https://github.com/Kams007-Cryp/Pizza-Sales-Analysis-Dashboard/blob/main/pizza_sales_excel_file.xlsx">
